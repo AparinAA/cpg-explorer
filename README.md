@@ -1,6 +1,8 @@
 # CPG Explorer
 
-Web-IDE для исследования и понимания кодовых баз Go через визуализацию Code Property Graph (CPG).
+https://github.com/AparinAA/cpg-explorer
+
+Web-IDE для исследования Go через визуализацию Code Property Graph (CPG).
 
 **!!!** Информация про запуск в пункте **Запуск через Docker Compose**
 
